@@ -1,3 +1,4 @@
+#beginner stage
 import random
 class wordguess:
     def __init__(self,wordlist,maxattempts):
@@ -196,3 +197,4 @@ if __name__=="__main__":
 # if __name__ == "__main__":
 #     print("-" * 8, "Welcome to Word Guess Game", "-" * 8)
 #     get_and_start()
+
