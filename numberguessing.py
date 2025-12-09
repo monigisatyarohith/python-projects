@@ -1,3 +1,4 @@
+#beginner stage
 import random
 
 def random_guessing(start: int, end: int, max_attempts: int) -> bool:
@@ -67,3 +68,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
